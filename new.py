@@ -1,0 +1,7 @@
+print("hello world")
+
+a = int(input())
+if (a%2!=0):
+    print("Odd")
+else:
+    print("even")
